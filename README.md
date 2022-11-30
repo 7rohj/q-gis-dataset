@@ -16,3 +16,6 @@ https://www.its.go.kr/opendata/opendataList?service=traffic
 
 `경기도 광주시 읍면동별 세대 및 인구 2020` </br>
 https://kosis.kr/statHtml/statHtml.do?tblId=DT_63701_B000017&orgId=637&language=kor&conn_path=&vw_cd=&list_id=
+
+`경기도 광주시 주민등록 인구 현황 2022-07` </br>
+https://www.gjcity.go.kr/portal/bbs/view.do?bIdx=308572&ptIdx=44&mId=0304040200
