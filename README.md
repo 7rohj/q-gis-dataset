@@ -25,7 +25,7 @@ https://www.gjcity.go.kr/portal/bbs/view.do?bIdx=308572&ptIdx=44&mId=0304040200
 `경기도 광주시` </br>
 https://www.gjcity.go.kr/portal/contents.do?mId=0102010300
 
-`경기도 광주시 읍면동 코드 목록` </br>
+`경기도 광주시 읍면동 코드 목록 (경기도 광주시 : **416**)` </br>
 https://www.data.go.kr/data/15101142/fileData.do?recommendDataYn=Y
 
 `전국 법정동 코드 목록` </br>
