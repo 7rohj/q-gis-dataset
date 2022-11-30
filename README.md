@@ -57,7 +57,7 @@ https://www.gjcity.go.kr/portal/contents.do?mId=0102010300
 `(도로명주소)도로구간` </br>
 http://data.nsdi.go.kr/dataset/12902
 </br>
-http://www.gisdeveloper.co.kr/?p=2310
-`국가교통DB_교통망GIS DB_지역좌표계_도로망`
+http://www.gisdeveloper.co.kr/?p=2310  </br>
+`국가교통DB_교통망GIS DB_지역좌표계_도로망`  </br>
 https://www.ktdb.go.kr/www/addPbldataReqstData.do?key=202&clTy=1
 
