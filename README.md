@@ -5,7 +5,8 @@
 
 
 `전국표준노드링크 2022-11-15` </br>
-https://www.its.go.kr/nodelink/nodelinkRef
+https://www.its.go.kr/nodelink/nodelinkRef </br>
+**- 법정동코드가 411인 `성남시` 데이터가 없음..**
 
 `행정구역시군구_경계_경기` </br>
 http://data.nsdi.go.kr/dataset/15144
