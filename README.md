@@ -31,4 +31,16 @@ https://www.data.go.kr/data/15101142/fileData.do?recommendDataYn=Y
 `전국 법정동 코드 목록` </br>
 https://www.code.go.kr/stdcode/regCodeL.do
 
+|시군구명|코드|
+|:---:|:---:|
+|성남시|411|
+|남양주시|413|
+|구리시|413|
+|용인시|414|
+|이천시|415|
+|여주시|416|
+|광주시|416|
+|양평군|418|
+
+
 
