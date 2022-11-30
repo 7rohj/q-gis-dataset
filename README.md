@@ -49,4 +49,12 @@ https://www.gjcity.go.kr/portal/contents.do?mId=0102010300
 
 하남시 빼먹어서 다시.. 
 
+## ✔️ 문제점
+네트워크 분석이 안먹음..
+>> 링크와 노드가 만나지 않아서 그런가
+>> 다른 데이터를 이용해보자
+
+`(도로명주소)도로구간`
+http://data.nsdi.go.kr/dataset/12902
+
 
