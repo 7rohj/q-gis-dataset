@@ -51,14 +51,19 @@ https://www.gjcity.go.kr/portal/contents.do?mId=0102010300
 
 ## ✔️ 문제점
 네트워크 분석이 안먹음..
->> 링크와 노드가 만나지 않아서 그런가
->> 다른 데이터를 이용해보자
+```
+링크와 노드가 만나지 않아서 그런가
+다른 데이터를 이용해보자
+```
 
 `(도로명주소)도로구간` </br>
-http://data.nsdi.go.kr/dataset/12902
-</br>
-http://www.gisdeveloper.co.kr/?p=2310  </br>
-`국가교통DB_교통망GIS DB_지역좌표계_도로망`  </br>
-`국가교통DB_네트워크_도로_수도권`  </br>
+http://data.nsdi.go.kr/dataset/12902 
+http://www.gisdeveloper.co.kr/?p=2310  
+`국가교통DB_교통망GIS DB_지역좌표계_도로망` </br>
+`국가교통DB_네트워크_도로_수도권` </br>
 https://www.ktdb.go.kr/www/addPbldataReqstData.do?key=202&clTy=1
+
+![image](https://user-images.githubusercontent.com/99319638/204744438-f44db586-6326-407e-985c-8f5dd8bdd748.png)
+
+....
 
