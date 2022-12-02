@@ -10,7 +10,7 @@ VWORLD 오픈 API https://www.vworld.kr/dev/v4dv_2ddataguide2_s001.do </br>
 ## ✔️ 교통량 데이터
 ITS 국가교통정보센터 https://www.its.go.kr/opendata/opendataList?service=traffic </br>
 도로교통공사(고속도로만) http://data.ex.co.kr/ </br>
-서울시 교통정보 https://topis.seoul.go.kr/refRoom/openRefRoom_2.do </br>
+서울시 교통정보 https://topis.seoul.go.kr/refRoom/openRefRoom_1.do </br>
 경기도교통정보센터 https://gits.gg.go.kr/gtdb/web/trafficDb/trafficSpeed/alwaysSpeed.do </>
 
 ## ✔️ 사용 데이터셋
