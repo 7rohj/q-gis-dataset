@@ -44,6 +44,13 @@ https://www.gjcity.go.kr/portal/contents.do?mId=0102010300
 ~`전국 법정동 코드 목록`~ </br>
 ~https://www.code.go.kr/stdcode/regCodeL.do~
 
+`서울시 읍면동별 인구` </br>
+https://data.seoul.go.kr/dataList/10584/S/2/datasetView.do
+
+`경기도 읍면동별 인구` </br>
+https://kosis.kr/statHtml/statHtml.do?orgId=210&tblId=DT_210J0008&conn_path=I2 </br>
+오른쪽 조회설정에서 조회 수정할 수 있음! 😊
+
 |시군구명|코드|
 |:---:|:---:|
 |성남시 수정구|204|
